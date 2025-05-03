@@ -7,4 +7,5 @@ Connect 4 is a two-player game in which the players first choose a color and the
 Algorithms
 
 • Minimax without alpha-beta pruning
+
 • Minimax with alpha-beta pruning
